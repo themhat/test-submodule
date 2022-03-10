@@ -1,4 +1,4 @@
 # test-submodule
 A test submodule
 
-Change 5
+Change 6
